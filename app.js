@@ -9,3 +9,7 @@ function app() {
         //redictet
         }
     }
+
+    function app() {
+        //redirect to register
+    }
